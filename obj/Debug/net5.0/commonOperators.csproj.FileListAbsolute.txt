@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\bin\Debug\net5.0\commonOperators.exe
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\bin\Debug\net5.0\commonOperators.deps.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\bin\Debug\net5.0\commonOperators.runtimeconfig.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\bin\Debug\net5.0\commonOperators.runtimeconfig.dev.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\bin\Debug\net5.0\commonOperators.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\bin\Debug\net5.0\ref\commonOperators.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\bin\Debug\net5.0\commonOperators.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\commonOperators.csprojAssemblyReference.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\commonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\commonOperators.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\commonOperators.AssemblyInfo.cs
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\commonOperators.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\commonOperators.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\ref\commonOperators.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\commonOperators.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\commonOperators\obj\Debug\net5.0\commonOperators.genruntimeconfig.cache
